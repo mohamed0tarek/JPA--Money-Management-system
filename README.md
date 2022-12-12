@@ -39,7 +39,7 @@ Operations that admin can do :
  **4. Connection to Database** <br>
   - Singletone class that take care of EntityManager interface.
 
-# Technologies
+# Tools
 * JAVA EE.
 * EclipseLink.
 * Maven

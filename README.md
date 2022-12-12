@@ -9,7 +9,7 @@ This project is a console application that connected to a datebase to represent 
 **`NOTE`** ***I build the same project using JDBC. If you want to check it [here](https://github.com/mohamed0tarek/Money-Mangement-System/).***<br>
 
 <p align="center">
-  <img height=140  src="https://images.idgesg.net/images/article/2022/05/what-is-jpa.drawio-1-100928128-orig.jpg?auto=webp&quality=85,70">
+  <img height=170  src="https://images.idgesg.net/images/article/2022/05/what-is-jpa.drawio-1-100928128-orig.jpg?auto=webp&quality=85,70">
 </p>
 <br>
 
